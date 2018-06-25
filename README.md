@@ -1,2 +1,2 @@
 # exstore-devtools
-ExStore DevTools extension.
+ExStore DevTools extension. (Coming soon)
